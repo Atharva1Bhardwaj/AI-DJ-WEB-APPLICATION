@@ -1,0 +1,38 @@
+.heading {
+    font-size: 30px;
+    width: 100%;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+h3 {
+    background-color:darkblue;
+}
+.note {
+    color:lightskyblue;
+    font-size: 20px;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+h2 {
+    color: cornflowerblue;
+    background-color: darkblue;
+}
+.volume_div {
+    float: right;
+    margin: 0;
+}
+.speed_div{
+    float: left;
+}
+.play_button {
+    width: 150px;
+    font-size: 25px;
+}
+canvas {
+    border-width: 3px;
+    border-style: solid;
+    border-color: aliceblue;
+}
